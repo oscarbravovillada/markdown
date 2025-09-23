@@ -5,6 +5,6 @@
 [Enllaç Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada) 
 Emphasis: *Italic*, **Bold**
 
-![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
+![Imagen Externa](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
 
 ![Imagen local](images/imagen.png)
