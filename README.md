@@ -7,5 +7,5 @@ Emphasis: *Italic*, **Bold**
 
 ![Imagen Externa](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
 
-![Gato](cat.png)
+![Gato](images/cat.png)
 
